@@ -1,10 +1,10 @@
 ---
-abstract: 'We develop randomized block coordinate de- scent (CD) methods for linearly
-  constrained con- vex optimization. Unlike other large-scale CD methods, we do not
+abstract: 'We develop randomized block coordinate descent (CD) methods for linearly
+  constrained convex optimization. Unlike other large-scale CD methods, we do not
   assume the constraints to be separable, but allow them be coupled linearly. To our
   knowledge, ours is the first CD method that allows linear coupling constraints,
   without making the global iteration complexity have an exponential dependence on
-  the number of con- straints. We present algorithms and theoreti- cal analysis for
+  the number of constraints. We present algorithms and theoretical analysis for
   four key (convex) scenarios: (i) smooth; (ii) smooth + separable nonsmooth; (iii)
   asynchronous parallel; and (iv) stochastic. We discuss some architectural details
   of our methods and present preliminary results to illustrate the behavior of our
