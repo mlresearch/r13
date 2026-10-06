@@ -9,7 +9,7 @@ abstract: The identification of conditional dependences in longitudinal data is 
   data and compare the results to those obtained by a state of the art DBN learning
   implementation, showing that the proposed algorithm performs very well throughout
   the different experiments. Further experimental validation is made on real data,
-  by identify- ing non-stationary gene regulatory networks of Drosophila melanogaster.
+  by identifying non-stationary gene regulatory networks of Drosophila melanogaster.
 title: Polynomial-time algorithm for learning optimal tree-augmented dynamic Bayesian
   networks
 year: '2015'

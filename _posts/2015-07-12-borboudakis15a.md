@@ -1,6 +1,6 @@
 ---
 abstract: We address the problem of learning Bayesian networks from discrete, unmatched
-  case- control data using specialized conditional in- dependence tests. Those tests
+  casecontrol data using specialized conditional independence tests. Those tests
   can also be used for learning other types of graphical models or for feature selection.
   We also propose a post-processing method that can be applied in conjunction with
   any Bayesian network learning algorithm. In simulations we show that our methods
