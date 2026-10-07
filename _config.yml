@@ -2,7 +2,7 @@
 booktitle: Proceedings of the 31st Conference on Uncertainty in Artificial Intelligence
 shortname: UAI
 year: '2015'
-start: &1 2015-07-12
+start: 2015-07-12
 end: 2015-07-16
 conference_number: '31'
 volume: R13
@@ -72,7 +72,7 @@ conference:
   url: https://www.auai.org/uai2015/
   location: Amsterdam, Netherlands
   dates:
-  - *1
+  - 2015-07-12
   - 2015-07-13
   - 2015-07-14
   - 2015-07-15
